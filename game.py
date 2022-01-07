@@ -1,5 +1,3 @@
-# `random` module is used to shuffle field, see:
-# https://docs.python.org/3/library/random.html#random.shuffle
 import random
 import sys
 
@@ -147,6 +145,4 @@ def main():
 
 
 if __name__ == '__main__':
-    # See what this means:
-    # http://stackoverflow.com/questions/419163/what-does-if-name-main-do
     main()

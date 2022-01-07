@@ -144,7 +144,6 @@ def main():
             print('\n\nLoser.')
             sys.exit()
     print('Congratulations! You won!. You solved this puzzle in', steps_count, 'steps. Not bad.')
-    print("Don't forget to follow https://github.com/sobolevn.")
 
 
 if __name__ == '__main__':

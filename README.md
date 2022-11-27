@@ -111,6 +111,6 @@ Perform your next move: d
 Congratulations! You won!. You solved this puzzle in 5 steps. Not bad.
 ```
 
-### Планы на будующее:
+### Планы на будущее:
 1) Добавить уровни сложности.
 2) Добавить графический интерфейс. 
